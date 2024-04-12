@@ -6,7 +6,7 @@
 
 
 https://img.shields.io/badge/React.js?logo=facebook&logoColor=white&logoWidth=40
-
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/React.js?logo=React&logoColor=white&logoWidth=40"/>
 
 <!--
