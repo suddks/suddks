@@ -1,11 +1,12 @@
-### Hi there, I'm Yugyeong 👋
+## Hi there, I'm Yugyeong 👋
 
 🌱 I’m currently learning React.js, MySQL, Algorithm with Python  
 
-📫 How to reach me : starinsky284@gmail.com
+📫 How to reach me : starinsky284@gmail.com  
 
+### Skills  
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white&logoWidth=40"/>
 
 
 <!--
