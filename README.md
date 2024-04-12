@@ -3,7 +3,7 @@
 🌱 I’m currently learning React.js, MySQL, Algorithm with Python  
 
 📫 How to reach me : starinsky284@gmail.com  
-<img src="https://img.shields.io/badge/starinsky284@gmail.com-78BF1E?style=flat-square&logo=gmail&logoColor=white"/> 
+<img src="https://img.shields.io/badge/starinsky284@gmail.com-78BF1E?style=flat-square&logo=gmail&logoColor=#EA4335&color=white"/> 
 
 ### Skills  
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/python-F2E675?style=flat-square&logo=python&logoColor=#3776AB"/> <img src="https://img.shields.io/badge/Vue.js-D7EFC0?style=flat-square&logo=vuedotjs&logoColor=#4FC08D"/> <img src="https://img.shields.io/badge/MySql-FB3DE8?style=flat-square&logo=mysql&logoColor=#4479A1"/>
