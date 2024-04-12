@@ -4,7 +4,7 @@
 
 📫 How to reach me : starinsky284@gmail.com
 
-<img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js?style=flat-square&logo=React&logoColor=white"/>
 
 <!--
 **suddks/suddks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
