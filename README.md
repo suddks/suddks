@@ -4,6 +4,9 @@
 
 📫 How to reach me : starinsky284@gmail.com
 
+
+https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white&logoWidth=40
+
 <img src="https://img.shields.io/badge/React.js?style=flat-square&logo=React&logoColor=white"/>
 
 <!--
