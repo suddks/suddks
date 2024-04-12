@@ -5,7 +5,8 @@
 📫 How to reach me : starinsky284@gmail.com  
 
 ### Skills  
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/python-F2E675?style=flat-square&logo=python&logoColor=#3776AB"/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/python-F2E675?style=flat-square&logo=python&logoColor=#3776AB"/> <img src="https://img.shields.io/badge/Vue-9FDC62?style=flat-square&logo=vue&logoColor=#4FC08D"/>
+
 
 
 
