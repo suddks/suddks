@@ -6,6 +6,7 @@
 
 ### Skills  
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-61DAFB?style=flat-square&logo=python&logoColor=white"/>
 
 
 
