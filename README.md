@@ -1,7 +1,6 @@
 ## Hi there, I'm Yugyeong 👋
 #### 🔭Main : Frontend   🤔Studying : SQL
-
-🌱 I’m currently learning in SSAFY. 
+    I’m currently learning in SSAFY. 
 
 
 ### 📫 How to reach me 
